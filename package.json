@@ -1,0 +1,10 @@
+{
+  "name": "Animated Climacons",
+  "version": "0.0.1",
+  "description": "Animated SVG Climacons by Adam Whitcroft and Noah Blon.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/siburny/animated-climacons.git"
+  },
+  "author": "Maxim Rubis <siburny@gmail.com>"
+}
